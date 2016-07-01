@@ -1,3 +1,4 @@
+/* A Program for DES Encryption taking binary bits as input and showing avalanche effect when one bit is changed in input*/
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
